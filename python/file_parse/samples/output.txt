@@ -1,0 +1,63 @@
+Bob, Jim
+Bob 3
+Jim 4
+Mark 2
+Matt 3
+[
+    {
+        "roles": [
+            {
+                "end": 2002,
+                "name": "Bob",
+                "role": "Marketer",
+                "start": 2000
+            },
+            {
+                "end": 2006,
+                "name": "Bob",
+                "role": "Manager",
+                "start": 2005
+            }
+        ],
+        "years": 3
+    },
+    {
+        "roles": [
+            {
+                "end": 2002,
+                "name": "Jim",
+                "role": "Engineer",
+                "start": 2000
+            },
+            {
+                "end": 2005,
+                "name": "Jim",
+                "role": "Manager",
+                "start": 2003
+            }
+        ],
+        "years": 4
+    },
+    {
+        "roles": [
+            {
+                "end": 2004,
+                "name": "Mark",
+                "role": "Marketer",
+                "start": 2002
+            }
+        ],
+        "years": 2
+    },
+    {
+        "roles": [
+            {
+                "end": 2004,
+                "name": "Matt",
+                "role": "Engineer",
+                "start": 2001
+            }
+        ],
+        "years": 3
+    }
+]
